@@ -1,2 +1,2 @@
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/device_t879.mk
+    $(LOCAL_DIR)/device_quincytmo.mk
